@@ -22,3 +22,13 @@ all inteded to go in depth under the hood of JavaScript to write more efiiceint 
 5. Asynchronous JS 
 5/5 for my rating on this course. Some of the best teaching I have seen. bar none. 
 
+Book
+Cracking the Coding Interveiew (189 ... 6th edition )
+projects in off time
+Language (expert level, skill level)
+Knowing Only One or Two Languages: The more time you've spent coding, the more things you've
+built, the more languages you will have tended to work with. The assumption then, when they see a
+resume with only one language, is that you haven't experienced very many problems. They also often
+worry that candidates with only one or two languages will have trouble learning new technologies (why
+hasn't the candidate learned more things?) or will just feel too tied with a specific technology (poten-
+tially not using the best language for the task).
