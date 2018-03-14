@@ -32,3 +32,21 @@ resume with only one language, is that you haven't experienced very many problem
 worry that candidates with only one or two languages will have trouble learning new technologies (why
 hasn't the candidate learned more things?) or will just feel too tied with a specific technology (poten-
 tially not using the best language for the task).
+
+
+Becoming a better programmer PETE goodliffe 
+care about making truly great software  that is the goal 
+note : i like making great user wxperiences and utikity better life 
+
+ACCU CHECKOUT 
+Elephantine monstrosities thatvthe rarst of us have ti ckean uo  TOW DVI AT MY CURENT JOB
+KEY :to wrote good code you have to care a bout it . .. to beicme a better orogramer you must invest time and effirt 
+attidute  is the diffeence between medicire and greta programmers .how i apply this  i cannot pove i memrized or oeefectly know all this but have taken ccopius notes amd have examoles of applying it 
+care thisbis the while beginning of tit  to show it prove it  examole in ym code aniooetes befire afwr 
+
+resume  buldier stuff  
+projects   perosnal communicty open aiurce  freelance 
+jobs - accalades stats
+langaauges mastey - code wars tyie and expeoence and write stuff tutoials etc or aoemthjng wirk exampels 
+
+improve hiw what parts 
