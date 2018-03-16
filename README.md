@@ -1,8 +1,13 @@
 # Software_Books_&_Courses-Notes
 
-http://onlinelibrary.wiley.com/book/10.1002/9781119209515
+Purpose of this docs: I hope you are an employer or even a fellow software engineer but mainly this docs is to show I have a skill of learening from great literautre and teaching/courses. I not only am good at leanring but applying it and using it fast. being flexible yet staying with solid principles.  I have shared some experiences and maybe some code to show at least an understadning or attempt at showing a level of mastery over good subject matter.  As Stepehn Covey put it "Sharpening the Saw."
 
-Software Engineering definition : An organized, analytical approach to the design, development, use and maintenance of software. (p. xxii)
+
+
+
+###### [Beginning Software Engineering by Rod Stephens](http://onlinelibrary.wiley.com/book/10.1002/9781119209515)
+>definition : An organized, analytical approach to the design, development, use and maintenance of software. (p. xxii)
+
 Or it is everything you need to do to create successful software. 
 
 Raw idea turned into powerful intuitive application that can be enhanced to meet customer needs.Its not physcial so it can changed after production unlike other engineering like a bridge or plane cabin.
@@ -34,15 +39,18 @@ hasn't the candidate learned more things?) or will just feel too tied with a spe
 tially not using the best language for the task).
 
 
-Becoming a better programmer PETE goodliffe 
+Becoming a better programmer PETE goodliffe http://shop.oreilly.com/product/0636920033929.do
 care about making truly great software  that is the goal 
 note : i like making great user wxperiences and utikity better life 
+https://nostarch.com/codecraft   also of interest by same author 
 
 ACCU CHECKOUT 
 Elephantine monstrosities thatvthe rarst of us have ti ckean uo  TOW DVI AT MY CURENT JOB
 KEY :to wrote good code you have to care a bout it . .. to beicme a better orogramer you must invest time and effirt 
 attidute  is the diffeence between medicire and greta programmers .how i apply this  i cannot pove i memrized or oeefectly know all this but have taken ccopius notes amd have examoles of applying it 
 care thisbis the while beginning of tit  to show it prove it  examole in ym code aniooetes befire afwr 
+
+
 
 resume  buldier stuff  
 projects   perosnal communicty open aiurce  freelance 
