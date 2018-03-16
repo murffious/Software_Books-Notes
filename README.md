@@ -46,13 +46,15 @@ care about making truly great software  that is the goal
 note : i like making great user wxperiences and utikity better life 
 https://nostarch.com/codecraft   also of interest by same author 
 
-ACCU CHECKOUT 
+ACCU CHECKOUT https://accu.org/ professionlaism in programming and conference for becoming a better programmer
 Elephantine monstrosities thatvthe rarst of us have ti ckean uo  TOW DVI AT MY CURENT JOB
 KEY :to wrote good code you have to care a bout it . .. to beicme a better orogramer you must invest time and effirt 
 attidute  is the diffeence between medicire and greta programmers .how i apply this  i cannot pove i memrized or oeefectly know all this but have taken ccopius notes amd have examoles of applying it 
 care thisbis the while beginning of tit  to show it prove it  examole in ym code aniooetes befire afwr 
+*Presentation(writing clean maintainable code bug free)*
+I have experienced first hand seeminlgy good devs (not making a total judgemnt on them) but even my CTO Slacked out he prefers 4 spaces so liets gget rid of all that otehr stuff.  Others have told me 2 spapcecs is jsut not legible yet I inspected many world fmaous prjoects like Googles aANgural seemingly written with 2 spaces.  Then read about all the beenfits like less code with 2 and on and on.  The tips in this chapter seems very true the opinion of the authors state tath good pgrammers rise above the squablle and while caring deeply about the presentatoin of their code jsut have a "healthy attidtue about it and act like grown ups. That is how I felt anyways and think higher ups should decide on code stule and have a style guide as with the famou (2 million downlads per month at time of this post) Airbnb Style guide.  I don't get opinionated I jsut make sure my code presentation its consistentn and "shows my intent" as the author suggests. Efficent, maintainable code ultimatey avoid bugs in your code . People and the compiler  
 
-I have experienced first hand seeminlgy good devs (not making a total judgemnt on them) but even my CTO Slacked out he prefers 4 spaces so liets gget rid of all that otehr stuff.  Others have told me 2 spapcecs is jsut not legible yet I inspected many world fmaous prjoects like Googles aANgural seemingly written with 2 spaces.  Then read about all the beenfits like less code with 2 and on and on.  The tips in this chapter seems very true the opinion of the authors state tath good pgrammers rise above the squablle and while caring deeply about the presentatoin of their code jsut have a "healthy attidtue about it and act like grown ups. That is how I felt anyways and think higher ups should decide on code stule and have a style guide as with the famou (2 million downlads per month at time of this post) Airbnb Style guide.  I don't get opinionated I jsut make sure my code presentation its consistentn and "shows my intent" as the author suggests. Efficent, maintainable code ultimatey avoid bugs in your code . 
+
 
 resume  buldier stuff  
 projects   perosnal communicty open aiurce  freelance 
