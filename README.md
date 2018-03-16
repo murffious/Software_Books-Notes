@@ -71,3 +71,6 @@ jobs - accalades stats
 langaauges mastey - code wars tyie and expeoence and write stuff tutoials etc or aoemthjng wirk exampels 
 
 improve hiw what parts 
+
+
+[![HitCount](http://hits.dwyl.io/murffious/Software_Books-Notes.svg)](http://hits.dwyl.io/murffious/Software_Books-Notes)
