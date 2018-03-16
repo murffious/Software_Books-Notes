@@ -1,10 +1,10 @@
 # Software_Books_&_Courses-Notes
-
+## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 Purpose of this docs: I hope you are an employer or even a fellow software engineer but mainly this docs is to show I have a skill of learening from great literautre and teaching/courses. I not only am good at leanring but applying it and using it fast. being flexible yet staying with solid principles.  I have shared some experiences and maybe some code to show at least an understadning or attempt at showing a level of mastery over good subject matter.  As Stepehn Covey put it "Sharpening the Saw."
 experience and thoughts get to know my experience and so forth and my learning Books(print and e-books), online Courses thorugh Udemy, Front End Masters, Lynda.com(also LInkedIN Learning), Full Univeristy courese(OPen Course ware from top universitites like harvard <MIT Standford etc) so instead of a Ceritifcate here is some of a journal of learning. 
 
 I believe education is key to any career. Always learning and being ablet o learn a new technology is exptermely improtant in todays tech world. Since I did not gradute as a CS degree yet work in the tech space my erly goal was to educate myself with teh smae if not more knowledge than any colelgee eduacted person IN Cs or simialr. 
-## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+
 
 
 ###### [Beginning Software Engineering by Rod Stephens](http://onlinelibrary.wiley.com/book/10.1002/9781119209515)
