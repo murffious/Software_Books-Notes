@@ -72,5 +72,8 @@ langaauges mastey - code wars tyie and expeoence and write stuff tutoials etc or
 
 improve hiw what parts 
 
+###### Learning Web app Development  (http://shop.oreilly.com/product/0636920030621.do)
+- book on full stack redis all that
+
 
 [![HitCount](http://hits.dwyl.io/murffious/Software_Books-Notes.svg)](http://hits.dwyl.io/murffious/Software_Books-Notes)
