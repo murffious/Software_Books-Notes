@@ -7,7 +7,7 @@ Profesor Kearl was known for his rgiourous tests and baosted optoins A-k on the 
 I believe education is key to any career. Always learning and being ablet o learn a new technology is exptermely improtant in todays tech world. Since I did not gradute as a CS degree yet work in the tech space my erly goal was to educate myself with teh smae if not more knowledge than any colelgee eduacted person IN Cs or simialr. 
 
 
-
+Public speaking - debate class -  5 years teaching and leadereship experince - OTHER SKILLS put this in the section about the book  use teh SARS to write up interview questions. answers like projects answers just put it all in there.  JS ahrd parts technincal communication precisions. 
 ###### [Beginning Software Engineering by Rod Stephens](http://onlinelibrary.wiley.com/book/10.1002/9781119209515)
 >definition : An organized, analytical approach to the design, development, use and maintenance of software. (p. xxii)
 
