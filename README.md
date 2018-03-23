@@ -45,6 +45,43 @@ a particular language.
 Where possible, try to truly diversify. The languages in the cluster of {Python, Ruby, and JavaScript} are
 somewhat similar to each other. It's better if you can learn languages that are more different, like Python,
 C++, and Java.
+Build projects outside
+of school/ work.
+Learn multiple
+programming
+Expand Network
+Build websi te / port-
+folio showcasing your
+languages
+Implement data struc-
+tures and algorithms
+from scratch
+Form mock interview
+group with friends to
+interview each other.Do several mock inter-
+views.Do mini-projects to
+solidify understanding
+of key concepts .
+Create list to track
+mistakes you've made
+solvinq problems.
+Rehearse stories
+from the interview
+prep grid (pg 32).
+Review Power of 2 table (pg 61) Print for a phone screen.
+(technical communcation ) Remember to talk out
+loud. Show how you
+think.Write Thank You note
+to recruiter.
+
+Int prep grid
+Common Questions Project 1  Project 2 Project 3
+Challenges
+Mistakes/ Failures
+Enjoyed
+Leadership
+Conflicts
+What You'd Do Differently
 
 ###### [Becoming a better programmer by PETE goodliffe](http://shop.oreilly.com/product/0636920033929.do)
 care about making truly great software  that is the goal 
