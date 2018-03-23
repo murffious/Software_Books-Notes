@@ -40,7 +40,8 @@ resume with only one language, is that you haven't experienced very many problem
 worry that candidates with only one or two languages will have trouble learning new technologies (why
 hasn't the candidate learned more things?) or will just feel too tied with a specific technology (poten-
 tially not using the best language for the task).
-
+There is a belief in many circles that the best software engineers don't define themselves around
+a particular language.
 
 ###### [Becoming a better programmer by PETE goodliffe](http://shop.oreilly.com/product/0636920033929.do)
 care about making truly great software  that is the goal 
