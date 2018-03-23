@@ -42,6 +42,9 @@ hasn't the candidate learned more things?) or will just feel too tied with a spe
 tially not using the best language for the task).
 There is a belief in many circles that the best software engineers don't define themselves around
 a particular language.
+Where possible, try to truly diversify. The languages in the cluster of {Python, Ruby, and JavaScript} are
+somewhat similar to each other. It's better if you can learn languages that are more different, like Python,
+C++, and Java.
 
 ###### [Becoming a better programmer by PETE goodliffe](http://shop.oreilly.com/product/0636920033929.do)
 care about making truly great software  that is the goal 
