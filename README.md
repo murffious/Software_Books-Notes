@@ -83,6 +83,12 @@ Leadership
 Conflicts
 What You'd Do Differently
 
+Along the top, as columns, you should list all the major aspects of your resume, including each project, job,
+or activity. Along the side, as rows, you should list the common behavioral questions.
+When asked about your weaknesses, give a real weakness! Answers like "My greatest weakness is that I
+work too hard" tell your interviewer that you're arrogant and/or won't admit to your faults. A good answer
+conveys a real, legitimate weakness but emphasizes how you work to overcome it.
+
 ###### [Becoming a better programmer by PETE goodliffe](http://shop.oreilly.com/product/0636920033929.do)
 care about making truly great software  that is the goal 
 note : i like making great user wxperiences and utikity better life 
