@@ -14,6 +14,40 @@ Public speaking - debate class -  5 years teaching and leadereship experince - O
 >Programmers who can communicate well get the most money and the interesting work ... they are the ones who can sell their ideas and are best at talking to customers to find out what the customer wants. (p. 23) 
 This is a similar idea that CEO of Codesmith says that you can be a great programmer if you write code quickly and meet the given requirements but world class engineers are good at technical communication. 
 
+###### Essentials of C# (Lynda.com)
+Overload - two methods with the same name but different signature - method signature refers to return type, name, name and type of arguments - this is a form of polymorphism 
+ Type required for arguments
+
+Inheritance: 
+Vocal: function body expression  like arrow function is js but more simple only 
+
+Math.  Then has list of static methods i.e. not needing instantiation of the class 
+
+Inherit toStirng and we want to override it 
+Public override string ToString()
+{
+	var sb = new StringBuilder() 
+Sb.APpendLIne 
+	return base.ToString();
+sb.ToString(). Made the default ToString more useful 
+}
+XAML for new windows stuff 
+
+Abstract class. Base class cannot instantiate directly
+
+Virtual be overridden later
+Interface common behaviors one class. : like inheritance 
+value built in
+Get set has auto properties in visual studio 
+Then you can breakout out and do logic 
+Encapsulated property 
+Access modifier 
+There are four access modifiers in C#, public, private, protected, and internal. Inheritance is related to this
+Encapsulation of the property 
+ 
+ctor hot key 
+
+
 ###### [Beginning Software Engineering by Rod Stephens](http://onlinelibrary.wiley.com/book/10.1002/9781119209515)
 >definition : An organized, analytical approach to the design, development, use and maintenance of software. (p. xxii)
 
