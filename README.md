@@ -8,6 +8,12 @@ I believe education is key to any career. Always learning and being ablet o lear
 
 
 Public speaking - debate class -  5 years teaching and leadereship experince - OTHER SKILLS put this in the section about the book  use teh SARS to write up interview questions. answers like projects answers just put it all in there.  JS ahrd parts technincal communication precisions. 
+
+
+###### [Begin to Code with C#] (Microsoft)
+>Programmers who can communicate well get the most money and the interesting work ... they are the ones who can sell their ideas and are best at talking to customers to find out what the customer wants. (p. 23) 
+This is a similar idea that CEO of Codesmith says that you can be a great programmer if you write code quickly and meet the given requirements but world class engineers are good at technical communication. 
+
 ###### [Beginning Software Engineering by Rod Stephens](http://onlinelibrary.wiley.com/book/10.1002/9781119209515)
 >definition : An organized, analytical approach to the design, development, use and maintenance of software. (p. xxii)
 
