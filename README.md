@@ -1,14 +1,11 @@
 # Software_Books_&_Courses-Notes
-## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
-Purpose of this docs: I hope you are an employer or even a fellow software engineer but mainly this docs is to show I have a skill of learening from great literautre and teaching/courses. I not only am good at leanring but applying it and using it fast. being flexible yet staying with solid principles.  I have shared some experiences and maybe some code to show at least an understadning or attempt at showing a level of mastery over good subject matter.  As Stepehn Covey put it "Sharpening the Saw."
-experience and thoughts get to know my experience and so forth and my learning Books(print and e-books), online Courses thorugh Udemy, Front End Masters, Lynda.com(also LInkedIN Learning), Full Univeristy courese(OPen Course ware from top universitites like harvard <MIT Standford etc) so instead of a Ceritifcate here is some of a journal of learning. 
-Profesor Kearl was known for his rgiourous tests and baosted optoins A-k on the exam which is claimed to only get you pan A if you really thourhgoly undertaood the content not just memorized stuff.  He did one thing each period I loved. The pop quiz was a quesiton liek waht is Law of demand and suply and we had ot write a paragrpah on one side of the card and tehn find a real world exmaple demontstraing it and write how and so forht. basically immediately apply to real world a concept. in the rela world not jsut a book.  also the writing and not jsut chosoing a-e or what not. I try to keep doing that with all that I learn. This si jsut a part of that process to master/understand content not jsut memorize or rea thorugh know stuff. 
+## Why? [![start with why]
 
-I believe education is key to any career. Always learning and being ablet o learn a new technology is exptermely improtant in todays tech world. Since I did not gradute as a CS degree yet work in the tech space my erly goal was to educate myself with teh smae if not more knowledge than any colelgee eduacted person IN Cs or simialr. 
+Purpose of this docs: Take notes to review and master new content in my quest to be a truly versatile yet specialized software engineer. I believe education is key to any career. Always learning and being able to learn a new technology is exptermely improtant in today's tech world. 
 
 
-Public speaking - debate class -  5 years teaching and leadereship experince - OTHER SKILLS put this in the section about the book  use teh SARS to write up interview questions. answers like projects answers just put it all in there.  JS ahrd parts technincal communication precisions. 
-
+###### [Building Web Apps with WordPress] (http://shop.oreilly.com/product/0636920029380.do)
+Difference between a web app and a web site. Here are some features that might make something a web app although they can seem similar to a site at first glance: More interactive elements, Tasks rather than content, Logins, Device capabilities, Work offline, API Mashups etc. WP started as a blogging platform and evolved into a fully functional content management system (CMS) built on PHP/SQL/JS. Why use WP? 55,070 (27000+ free) plugins (as of 2018 Apr), security, user management etc. but really it claims to be cheaper than like a .NET dev setup. 
 
 ###### [Begin to Code with C#] (Microsoft)
 >Programmers who can communicate well get the most money and the interesting work ... they are the ones who can sell their ideas and are best at talking to customers to find out what the customer wants. (p. 23) 
