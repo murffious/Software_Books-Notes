@@ -1,5 +1,5 @@
 # Software_Books_&_Courses-Notes
-## Why? [![start with why]
+## Why? [![start with why]()
 
 Purpose of this docs: Take notes to review and master new content in my quest to be a truly versatile yet specialized software engineer. I believe education is key to any career. Always learning and being able to learn a new technology is exptermely improtant in today's tech world. 
 
