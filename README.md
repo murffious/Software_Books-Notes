@@ -1,9 +1,14 @@
 # Software_Books_&_Courses-Notes
-## Why? [![start with why](https://medium.com/the-mission/seven-steps-to-learn-and-master-anything-as-quickly-as-possible-ed75612f6e04)
+## Why? 
 
 Purpose of this docs: Take notes to review and master new content in my quest to be a truly versatile yet specialized software engineer. I believe education is key to any career. Always learning and being able to learn a new technology is exptermely improtant in today's tech world. 
 
 
+
+###### [The Object-Oriented Thought Process] (https://www.safaribooksonline.com/library/view/the-object-oriented-thought/9780133090659/)
+-object wrappers- take a structured module and wrap inside an object to make it look like an object. 
+objects defined - `an entity that contains both data and behavior`
+procedural programming - code is placed into functions or procedures where inputs go in and outputs come out. data or  attributes and methods or behaviors are separate unlike OOP where both are combined, in OOP no such things as global data when properly designed which helps protect intended use, ENCAPSULATION. Restricting access to attributes/methods is data hiding. Best practices: Smaller objects with specific tasks is generally better and objects shoud not manipulate the internal data of other objects.   
 ###### [Building Web Apps with WordPress] (http://shop.oreilly.com/product/0636920029380.do)
 Difference between a web app and a web site. Here are some features that might make something a web app although they can seem similar to a site at first glance: More interactive elements, Tasks rather than content, Logins, Device capabilities, Work offline, API Mashups etc. WP started as a blogging platform and evolved into a fully functional content management system (CMS) built on PHP/SQL/JS. Why use WP? 55,070 (27000+ free) plugins (as of 2018 Apr), security, user management etc. but really it claims to be cheaper than like a .NET dev setup. 
 
