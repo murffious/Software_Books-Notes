@@ -3,7 +3,8 @@
 
 Purpose of this docs: Take notes to review and master new content in my quest to be a truly versatile yet specialized software engineer. I believe education is key to any career. Always learning and being able to learn a new technology is exptermely improtant in today's tech world. 
 
-
+###### [Learning to Program by Steven Foote] (https://www.safaribooksonline.com/library/view/learning-to-program/9780133795257/)
+p.31 - A cool "WHY" to writing clean code and why code breaks wihtout perfect semi colon and what not. "Knowing that my code must be translated [into 1s, and 0s] before being executed helped me understand; if the instructions have typos or errors, the programming language will not be able to properly translate to binary"
 
 ###### [The Object-Oriented Thought Process] (https://www.safaribooksonline.com/library/view/the-object-oriented-thought/9780133090659/)
 -object wrappers- take a structured module and wrap inside an object to make it look like an object. 
