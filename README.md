@@ -3,6 +3,11 @@
 
 Purpose of this docs: Take notes to review and master new content in my quest to be a truly versatile yet specialized software engineer. I believe education is key to any career. Always learning and being able to learn a new technology is exptermely improtant in today's tech world. 
 
+
+###### [Javascript Patterns by Stoyan Stefanov] (http://shop.oreilly.com/product/9780596806767.do)
+Design Patterns, Coding Patterns, Antipatterns
+Solutions to common problems- 
+
 ###### [Learning to Program by Steven Foote] (https://www.safaribooksonline.com/library/view/learning-to-program/9780133795257/)
 p.31 - A cool "WHY" to writing clean code and why code breaks wihtout perfect semi colon and what not. "Knowing that my code must be translated [into 1s, and 0s] before being executed helped me understand; if the instructions have typos or errors, the programming language will not be able to properly translate to binary"
 
