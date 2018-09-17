@@ -4,6 +4,22 @@
 Purpose of this docs: Take notes to review and master new content in my quest to be a truly versatile yet specialized software engineer. I believe education is key to any career. Always learning and being able to learn a new technology is exptermely improtant in today's tech world. 
 
 
+Beginning object oriented programming with C#	
+C++ for dummies	
+Cassandra : the definitive guide	
+Coding for dummies	
+Data science on the Google cloud platform : implementing end-to-end real-time data pipelines : from ingest to machine learning	
+	Java 9 modularity : patterns and practices for developing maintainable applications	
+	Learning React Native : building native mobile apps with JavaScript	
+	Learning to program	
+	Learning web app development	
+	Node.js for embedded systems : using Web technologies to build connected devices	
+	Programming language explorations	
+	Sams teach yourself Java in 24 hours	
+	Sams teach yourself TCP/IP in 24 hours	
+	Think Java : how to think like a computer scientist
+	The object-oriented thought process	
+
 ###### [Javascript Patterns by Stoyan Stefanov] (http://shop.oreilly.com/product/9780596806767.do)
 Design Patterns, Coding Patterns, Antipatterns
 Solutions to common problems- 
